@@ -1,0 +1,14 @@
+{
+  "name": "persiflage",
+  "description": "Persiflage Chat Server",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "socket.io": "0.9.x"
+  },
+  "devDependencies": {
+  	"karma": "0.10.x",
+  	"karma-jasmine": "0.1.x"
+  }
+}
